@@ -10,6 +10,12 @@ Features:
 =>Ad-hoc Payments: Supports one-time payments for different services.
 =>Collections and Donations: Enables users to make donations and manage collections easily.
 
+
+Usage:
+
+Open your web browser and navigate to https://cute-tarsier-1d842c.netlify.app/ to access the application.
+Register or log in to start using the features of Bharat Pay.
+
 Technologies Used:
 Frontend: HTML, CSS, Bootstrap
 
