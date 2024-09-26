@@ -1,7 +1,8 @@
 body {
   background-color: #fff;
-  overflow: hidden;
+
 }
+
 
 .parent-div {
   border: 1px solid #dad8d8;
@@ -352,12 +353,12 @@ body {
 
 @media (max-width: 1200px) {
   .parent-div {
-    width: 90%;
+    width: 100%;
   }
 }
 
 @media (max-width: 992px) {
   .parent-div {
-    width: 95%;
+    width: 100%;
   }
 }
