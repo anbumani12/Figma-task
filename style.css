@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   width: 100%;
@@ -9,7 +10,7 @@ html, body {
 *,
 *::before,
 *::after {
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
 body {
@@ -22,7 +23,7 @@ body {
   width: 100vw;
   background-color: #ffffff;
   cursor: pointer;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
 .header {
@@ -369,13 +370,12 @@ body {
 
 @media (max-width: 1200px) {
   .parent-div {
-    width: 90vw; 
+    width: 90vw;
   }
 }
 
 @media (max-width: 992px) {
   .parent-div {
-    width: 95vw; 
+    width: 95vw;
   }
 }
-
